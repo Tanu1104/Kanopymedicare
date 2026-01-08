@@ -1,16 +1,41 @@
-# React + Vite
+# Kanopy Medicare Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Kanopy Medicare is a frontend healthcare web application developed during my internship, focused on creating a clean, user-friendly, and responsive interface for presenting medical services and related information. The project emphasizes modular React development and real-world UI design practices.
 
-Currently, two official plugins are available:
+## Tech Stack
+- React
+- JavaScript
+- Vite
+- HTML
+- CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Component-based React architecture
+- Responsive healthcare-focused UI design
+- Structured layout for medical services and information
+- Reusable UI components for scalability
+- Fast development environment using Vite
 
-## React Compiler
+## My Contribution
+- Developed frontend components using React
+- Designed and structured reusable UI components
+- Implemented UI logic and basic state handling
+- Integrated styling and ensured responsive behavior
+- Improved UI clarity and accessibility for healthcare use cases
+- Debugged and resolved frontend issues during development
+- Collaborated with team members using GitHub for version control
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Team Collaboration
+- Worked in a team environment during internship
+- Followed GitHub workflow for collaborative development
+- Contributed through regular commits and code updates
 
-## Expanding the ESLint configuration
+## Learnings
+- Building domain-specific UIs using React
+- Writing maintainable and scalable frontend code
+- Improving user experience through clean UI design
+- Practical experience with team-based project development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Status
+Internship Project – Completed
